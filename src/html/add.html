@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<body>
+
+      <label>Vidja</label><input type="text" id="video" value="">
+      <label>difficulty</label><input type="text" id="difficulty">
+      <label>Artist</label><input type="text" id="artist">
+      <label>Title</label><input type="text" id="title">
+      <label>Series</label><input type="text" id="series">
+      <button onclick="submit()" type="button">HErro??</button>
+</body>
+
+<script>
+function submit() {
+    fetch('/addVideo', {
+        method: 'POST',
+        headers: {
+      'Content-Type': 'application/json'
+    },
+        body: JSON.stringify({
+            url: document.getElementById('video').value,
+            difficulty: document.getElementById('difficulty').value,
+            title: document.getElementById('title').value,
+            artist: document.getElementById('artist').value,
+            series: document.getElementById('series').value
+        })
+    })
+}
+</script>

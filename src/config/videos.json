@@ -1,0 +1,109 @@
+{
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=HRaoYuRKBaA",
+      "difficulty": "1",
+      "title": "We Are!",
+      "artist": "Hiroshi Kitadani",
+      "series": "One Piece"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nU21rCWkuJw",
+      "difficulty": "1",
+      "title": "A Cruel Angel's Thesis",
+      "artist": "Yoko Takahashi",
+      "series": "Neon Genesis Evangelion"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-eYK3YP524A",
+      "difficulty": "0.8",
+      "title": "Papermoon",
+      "artist": "Tommy heavenly6 ",
+      "series": "Soul Eater"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=faqmNf_fZlE",
+      "difficulty": "1",
+      "title": "Departure!",
+      "artist": "Masatoshi Ono",
+      "series": "Hunter x Hunter"
+    },
+    {
+      "url": "https://youtu.be/DAtICQV--VA",
+      "difficulty": "0.1",
+      "title": "Stop!! Hibari Kun!",
+      "artist": "Yuki Yukino",
+      "series": "Stop!! Hibari Kun!"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zzJ8U8OtEsE",
+      "difficulty": "1",
+      "title": "Resonance",
+      "artist": "T.M. Revolution",
+      "series": "Soul Eater"
+    },
+    {
+      "url": "https://youtu.be/yu0HjPzFYnY",
+      "difficulty": "1",
+      "title": "The Day",
+      "artist": "Porno Graffitti",
+      "series": "My Hero Academia"
+    },
+    {
+      "url": "https://youtu.be/EL-D9LrFJd4",
+      "difficulty": "1",
+      "title": "Tank!",
+      "artist": "Seatbelts",
+      "series": "Cowboy Bebop"
+    },
+    {
+      "url": "https://youtu.be/JBqxVX_LXvk",
+      "difficulty": "0.8",
+      "title": "Inferno",
+      "artist": "Mrs.GREEN APPLE",
+      "series": "Fire Force"
+    },
+    {
+      "url": "https://youtu.be/SRn99oN1p_c",
+      "difficulty": "1",
+      "title": "Haruka Kanata",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "series": "Naruto"
+    },
+    {
+      "url": "https://youtu.be/eSzsKvE-daY",
+      "difficulty": "1",
+      "title": "Cha La Head Cha La",
+      "artist": "Hironobu Kageyama",
+      "series": "Dragon Ball Z"
+    },
+    {
+      "url": "https://youtu.be/Ie2JS4K69xQ",
+      "difficulty": "0.1",
+      "title": "Black + White",
+      "artist": "Iori Nomizu",
+      "series": "Problem children are coming from another world, aren't they?"
+    },
+    {
+      "url": "https://youtu.be/oG4eu4HMtbo",
+      "difficulty": "0.4",
+      "title": "Sansan Days",
+      "artist": "Spira Spica",
+      "series": "My Dress-Up Darling"
+    },
+    {
+      "url": "https://youtu.be/2XL128AEniM",
+      "difficulty": "0.1",
+      "title": "Main Theme",
+      "artist": "Toshio Masuda",
+      "series": "Ghost Hunt"
+    },
+    {
+      "url": "https://youtu.be/ljdPRlN9g_Y",
+      "difficulty": "0.1",
+      "title": "PIKA PIKA no Taiyou",
+      "artist": "UEDA KANA",
+      "series": "Gakuen Alice"
+    }
+  ]
+}
